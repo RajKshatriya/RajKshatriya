@@ -21,8 +21,5 @@ My Personal-Portfolio and fitTrack, a health-focused web application<br>Frontend
 ---
 [![](https://visitcount.itsvg.in/api?id=RajKshatriya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Googlepay](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajkshatriya1960@pingpay) 
-
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
